@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+/Users/johannes/Documents/OlsoProjektit/olsoMac/trunk/OlsoTehtSarja10/.metadata/.plugins/org.eclipse.jdt.core
